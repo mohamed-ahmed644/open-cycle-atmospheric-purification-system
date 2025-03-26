@@ -58,8 +58,8 @@ See the [Builder’s Specification PDF](./Open_Cycle_Builder_Specifications.pdf)
 
 ## 🛠️ License
 
-This project is released under Creative Commons CC0.  
-No patents. No attribution required. This is public domain.
+This project is released under Creative Commons CC BY-NC.  
+No patents. No attribution required. This is public domain. No Commercial licensing
 
 ---
 
