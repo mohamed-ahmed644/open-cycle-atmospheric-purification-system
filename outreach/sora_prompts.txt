@@ -1,0 +1,16 @@
+# Sora Prompts – Open Cycle Atmospheric Purification System
+
+Prompt 1: "Tower in Isolation"
+A futuristic purification tower stands alone in a barren, windblown desert under an orange sky. The structure glows softly with internal light, flickering from the bottom upward. Slow cinematic camera pans upward from the scorched earth to the glowing vents at the top as dust drifts across the frame. In the distance, faint echoes of wind and a glowing sun pulse through haze.
+
+Prompt 2: "Breath from Fire"
+Inside a massive vertical tower, waste drops into a glowing combustion chamber. Flames bloom upward, transitioning into a stream of gas that moves through glowing, color-shifting layers: orange (heat), purple (ionizing), green-blue (reaction). The gas becomes clearer with each chamber, finally exiting the top of the tower as glowing white mist into the sky.
+
+Prompt 3: "Terraform Line"
+A series of towers line the surface of Mars, glowing with blue and orange light. Camera sweeps low across red sand dunes, revealing towers venting clean mist into the air. One tower zoomed in reveals its internals: fire, plasma, crystals, condensation.
+
+Prompt 4: "Ash to Air"
+Abstract particles rise through layers of glowing energy. Dust becomes light. Poison becomes color. Each transition layer creates new geometry—sacred, chemical, sacred again. A final burst of pure white air rises into black space, where stars shimmer.
+
+Prompt 5: "The Gift"
+A cinematic, handheld-style shot of a person in a cloak approaching a glowing tower in the middle of a wasteland. They kneel and place a container of dark liquid into a hatch. The tower hums. Light flows upward. A gentle stream of clean vapor rises from the top. The person exhales deeply, stands, and walks away into light.
